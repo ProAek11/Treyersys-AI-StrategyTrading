@@ -1,5 +1,5 @@
 seaborn
-
+-U scikit-learn
 pyfolio
 backtrader
 numpy
