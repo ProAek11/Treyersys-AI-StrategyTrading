@@ -11,5 +11,6 @@ streamlit
 yfinance
 yahoo-finance
 fix-yahoo-finance
+yahoofinancials
 scipy #iconda env using.
 
