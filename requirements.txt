@@ -1,4 +1,11 @@
 numpy
+time
 pandas
+plotly
 plotly.express
 streamlit
+yfinance
+yahoo-finance
+yahoo-finance
+fix-yahoo-finance
+scipy #iconda env using.
